@@ -6,5 +6,4 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-
 ![Snake animation](https://raw.githubusercontent.com/Lua-Alves/Lua-Alves/output/github-contribution-grid-snake.svg)
