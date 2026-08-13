@@ -7,4 +7,4 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 
-![Snake animation Contribution Lua](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Lua](https://raw.githubusercontent.com/Lua-Alves/Lua-Alves/output/github-contribution-grid-snake-dark.svg)
