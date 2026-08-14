@@ -26,5 +26,19 @@
 
 ---
 
+## 🏅 Microcertificações (Fatec)
+
+<p align="left">
+  <!-- Badge Design Patterns -->
+  <a href="https://badge.cps.sp.gov.br/view.aspx?0fd45eea-2596-47cd-86c5-b260b5c1452f" target="_blank" style="border:1px solid gray; padding:10px; display:inline-block;">
+    <img src="./assets/DesignPatternsBasic.png" height="130" alt="Design Patterns Básico - Fatec" title="Design Patterns Básico" style="vertical-align: middle;" />
+  </a>
+  
+  <!-- Badge Desenvolvedor Front-End -->
+  <a href="https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?d31214b1-5dab-44f2-b232-3e13cdb031c5" target="_blank" style="border:1px solid gray; padding:10px; display:inline-block;">
+    <img src="./assets/DevFront-End.png" height="130" alt="Desenvolvedor Front-End - Fatec" title="Desenvolvedor Front-End" style="vertical-align: middle;" />
+  </a>
+</p>
+
 
 ![Snake animation](https://raw.githubusercontent.com/Lua-Alves/Lua-Alves/output/github-contribution-grid-snake.svg)
