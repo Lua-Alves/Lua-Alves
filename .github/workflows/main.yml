@@ -20,8 +20,9 @@ jobs:
           github_user_name: Lua-Alves
           outputs: |
             outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23ffffff&color_dots=%230d0d0d,%232a1838,%236d28d9,%23c084fc,%23ffffff
-            dist/github-contribution-grid-snake.gif?color_snake=%23ffffff&color_dots=%230d0d0d,%232a1838,%236d28d9,%23c084fc,%23ffffff&color_background=%23000000
+            outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#ffffff&color_dots=#0d0d0d,#2a1838,#6d28d9,#c084fc,#ffffff
+            dist/github-contribution-grid-snake.gif?color_snake=#ffffff&color_dots=#0d0d0d,#2a1838,#6d28d9,#c084fc,#ffffff&color_background=#000000
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
