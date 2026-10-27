@@ -26,13 +26,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-## 🏅 Microcertificações (Fatec)
+## 🏅 Microcertificações 
 
 <div align="center">
-  <!-- Badge Design Patterns -->
-  <a href="https://badge.cps.sp.gov.br/view.aspx?0fd45eea-2596-47cd-86c5-b260b5c1452f" target="_blank" style="border:1px solid gray; padding:10px; display:inline-block;">
-    <img src="./assets/DesignPatternsBasic.png" height="130" alt="Design Patterns Básico - Fatec" title="Design Patterns Básico" style="vertical-align: middle;" />
-  </a>
+
+<a href="https://www.credly.com/badges/482cfe1e-2e0b-4490-9b73-3f8618d0d690/public_url">
+  <img src="https://images.credly.com/size/220x220/images/7fa09e71-4149-4d59-9066-14fc8a3e0f39/blob" alt="Minha certificação AWS" width="150">
+</a>
   
   <!-- Badge Desenvolvedor Front-End -->
   <a href="https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?d31214b1-5dab-44f2-b232-3e13cdb031c5" target="_blank" style="border:1px solid gray; padding:10px; display:inline-block;">
