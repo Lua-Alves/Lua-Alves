@@ -30,11 +30,16 @@
 
 <div align="center">
 
+<a href="https://www.credly.com/badges/dea7b956-5713-4315-8491-7eedfd6a2169/public_url">
+  <img src="https://images.credly.com/size/220x220/images/727c2754-d727-4e27-a1aa-3de2425ce239/blob" alt="Minha certificação AWS" width="150">
+</a>
+
 <a href="https://www.credly.com/badges/482cfe1e-2e0b-4490-9b73-3f8618d0d690/public_url">
   <img src="https://images.credly.com/size/220x220/images/7fa09e71-4149-4d59-9066-14fc8a3e0f39/blob" alt="Minha certificação AWS" width="150">
 </a>
   
   <!-- Badge Desenvolvedor Front-End -->
+  
   <a href="https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?d31214b1-5dab-44f2-b232-3e13cdb031c5" target="_blank" style="border:1px solid gray; padding:10px; display:inline-block;">
     <img src="./assets/DevFront-End.png" height="130" alt="Desenvolvedor Front-End - Fatec" title="Desenvolvedor Front-End" style="vertical-align: middle;" />
   </a>
